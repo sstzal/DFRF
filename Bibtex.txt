@@ -1,6 +1,6 @@
-@inproceedings{shen2021starfc,
+@inproceedings{shen2022dfrf,
    author    = {Shen, Shuai and Li, Wanhua and Zhu, Zheng and Duan, Yueqi and Zhou, Jie and Lu, Jiwen},
-   title     = {Learning DFRF for Few-Shot Talking Head Synthesis},
+   title     = {Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis},
    booktitle = {ECCV},
    year      = {2022}
 }
