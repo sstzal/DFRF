@@ -1,0 +1,6 @@
+@inproceedings{shen2021starfc,
+   author    = {Shen, Shuai and Li, Wanhua and Zhu, Zheng and Duan, Yueqi and Zhou, Jie and Lu, Jiwen},
+   title     = {Learning DFRF for Few-Shot Talking Head Synthesis},
+   booktitle = {ECCV},
+   year      = {2022}
+}
