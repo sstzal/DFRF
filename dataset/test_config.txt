@@ -1,0 +1,7 @@
+basedir = dataset/finetune_models
+testskip = 1
+with_test = 1
+test_file = transforms_val.json
+L2loss_weight = 5e-8
+N_samples = 32
+N_importance = 64
