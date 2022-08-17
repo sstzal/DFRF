@@ -1,6 +1,7 @@
 # DFRF #
 The pytorch implementation for our ECCV2022 paper "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis".
-[Project](https://sstzal.github.io/DFRF/) [Paper](https://arxiv.org/abs/2207.11770) [Video Demo](https://www.youtube.com/watch?v=F6fkVNk9bBw)
+
+[[Project]](https://sstzal.github.io/DFRF/) [[Paper]](https://arxiv.org/abs/2207.11770) [[Video Demo]](https://www.youtube.com/watch?v=F6fkVNk9bBw)
 
 ## Requirements
 - Python 3.8.11
