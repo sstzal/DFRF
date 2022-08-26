@@ -11,8 +11,8 @@ The pytorch implementation for our ECCV2022 paper "Learning Dynamic Facial Radia
 
 For more details, please refer to the `requirements.txt`. We conduct the experiments with a 24G RTX3090.
 
-- Download `79999_iter.pth` from https://github.com/sstzal/DFRF/releases/tag/file to `data_util/face_parsing`
-- Download `exp_info.npy` from https://github.com/sstzal/DFRF/releases/tag/file to `data_util/face_tracking/3DMM`
+- Download `79999_iter.pth` from [here](https://github.com/sstzal/DFRF/releases/tag/file) to `data_util/face_parsing`
+- Download `exp_info.npy` from [here](https://github.com/sstzal/DFRF/releases/tag/file) to `data_util/face_tracking/3DMM`
 - Download 3DMM model from [Basel Face Model 2009](https://faces.dmi.unibas.ch/bfm/main.php?nav=1-1-0&id=details):
 
     ```
