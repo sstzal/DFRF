@@ -25,10 +25,13 @@ Put the video `${id}.mp4` to `dataset/vids/`, then run the following command for
 ```
 sh process_data.sh ${id}
 ```
+The data for training the base model is [[here]](https://github.com/sstzal/DFRF/releases/tag/Base_Videos).
+
 ## Training
 ```
 sh run.sh ${id}
 ```
+Some pre-trained models are [[here]](https://github.com/sstzal/DFRF/releases/tag/Pretrained_Models).
 
 ## Test
 Change the configurations in the `rendering.sh`, including the `iters, names, datasets, near and far`.
